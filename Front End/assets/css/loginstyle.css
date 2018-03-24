@@ -1,0 +1,111 @@
+html, body {
+	width: 100%;
+	height: auto;
+	background-color: #FFFFFF;
+}
+.img_logo {
+	width: 100px;
+	height: 100px;
+}
+.logo_text {
+	width: 50%;	
+	margin-left: 25%;
+}
+.logo_text ul li {
+	text-align: center;
+	font-size: 30px;
+	font-family: Lucida Console;
+	text-decoration: underline overline;
+	color: #3B3B3B;
+}
+.login {
+	background-color: transparent;
+	width: 40%;
+	margin-top: 2%;	
+	margin-left: 30%;
+	margin-bottom: 20px;
+	border-radius: 10px;
+	box-shadow: 2.5px 2.5px 2px 2px #C1CDC1;
+}
+.text {
+	font-size: 20px;
+	font-family: Lucida Console;
+	color: #3B3B3B;
+	width: 100%;
+	padding-top: 2.5%;
+	text-align: center;
+}
+.login_cred {
+	width: 92.8%;
+	margin: 2%;
+	font-family: Lucida Console;
+	font-size: 20px;
+	padding: 10px;
+	border: none;
+	border-radius: 6px;
+	box-shadow: 1px 1px .5px .5px #C1CDC1;
+}
+.login_cred:focus {
+	outline: none;
+}
+.register {
+	text-align: center;
+	color: skyblue;
+	font-family: Lucida Console;
+	font-size: 12.5px;
+}
+.register a {
+	text-decoration: none;
+	color: skyblue;
+}
+.button_div {
+	margin-left: 35%;
+}
+.button {
+	background-color: #98FB98;
+    color: #707070;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: Lucida Console;
+    margin: 2%;
+    cursor: pointer;
+    width: 30%;
+    border: 1px solid #98FB98;
+    border-radius: 5px;
+    box-shadow: 3px 3px #C1CDC1;
+}
+.social_login {
+	margin-left: 20%;
+}
+.social_login a {
+	text-decoration: none;
+	color: #3B3B3B;
+}
+.google img {
+	width: 20px;
+	height: 20px;
+	vertical-align: middle;
+}
+.google {
+	font-size: 30px;
+	border: .5px solid #C1CDC1;
+	border-radius: 5px;
+	box-shadow: 3px 3px #C1CDC1;
+	padding: 5px;
+}
+.facebook img {
+	width: 25px;
+	height: 25px;
+	vertical-align: middle;
+}
+.facebook {
+	font-size: 30px;
+	border: .5px solid #C1CDC1;
+	border-radius: 5px;
+	box-shadow: 3px 3px #C1CDC1;
+	padding: 5px;
+	margin-left: 5%;
+}
