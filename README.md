@@ -4,5 +4,5 @@ In this project, user will give their choice through input boxes and those data 
 
 The prediction of price will be done with the help of algorithms designed in Machine Learning. Use of various alogirthms like Linear Regrresion, SVM, XGBoost etc for designing the algorithms.
 
--Atul Ranjan
-
+Name - Atul Ranjan
+Adm No. - IT14106
